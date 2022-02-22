@@ -650,6 +650,9 @@ body {
 	.crafter {
 		margin-top: 20px;
 	}
+	.crafter__logo {
+		margin: 4px auto;
+	}
 }
 @media (max-height: 425px) {
 	.header__logo img {
